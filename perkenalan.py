@@ -1,7 +1,7 @@
-Nama = "Fatikha Kamila Azaria"
-Nim = 212410102029
-Prodi = "Teknologi Informasi"
-Asal = "Pasuruan"
-Univ = "Universitas Jember"
+nama = "Fatikha Kamila Azaria"
+nim = 212410102029
+prodi = "Teknologi Informasi"
+asal = "Pasuruan"
+univ = "Universitas Jember"
 
-print("Perkenalkan saya", Nama, "dengan NIM", Nim, "dari prodi", Prodi, Univ, ".Saya berasal dari", Asal)
+print("Perkenalkan saya", nama, "dengan NIM", nim, "dari prodi", prodi, univ, ".Saya berasal dari", asal)
